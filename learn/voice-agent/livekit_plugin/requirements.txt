@@ -1,0 +1,17 @@
+# LiveKit and core dependencies
+livekit
+livekit-agents
+livekit-api
+
+# Audio processing
+numpy
+sounddevice
+
+# WebSocket communication
+websockets
+
+# Environment management
+python-dotenv
+
+# JSON handling and utilities
+asyncio
